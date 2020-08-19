@@ -1,0 +1,90 @@
+<style>
+
+img src{
+  height: 200px;
+  width: 200px;
+}
+
+ body{
+   background-image: url("https://images.fineartamerica.com/images/artworkimages/mediumlarge/2/rose-gold-pink-marble-glitter-printable-pretty.jpg")
+ }
+
+ h2{
+   color:white
+   } 
+
+ a {
+   color:black;
+    text-align: center;
+    font-size: 30px;
+    
+    
+   }
+  
+ h1{
+    font-size: 50px;
+    text-align:left;
+    color: #696969;
+    padding: 0px;
+   }
+  
+ h2{
+    font-size: 35px;
+    text-align:left;
+    color: white;
+   }
+
+  p{
+    font-size: 28px;
+    color: black	;
+    font-family:"Times New Roman", Times, serif;
+};
+   }
+   
+
+  ul {
+   text-align:left;
+   padding:10px;
+   font-size: 20px;
+   background-color: grey;
+   }
+  
+
+  li{
+    display: inline;
+    
+    padding: 100px 10px 0px 10px;
+      }
+
+  button{
+    background-color:pink;
+    font-size: 25px;
+  }
+
+  h3{
+    font-size: 30px;
+  }
+
+}
+  </style>
+
+.red{
+  background-color: red;
+  height: 70px;
+}
+.pink{
+  background-color:#696969;
+  height: 70px;
+}
+.grey{
+  background-color: pink;
+  height: 70px;
+}
+.black{
+  background-color: #DCDCDC;
+  height: 70px;
+}
+
+#myImage{
+  height: 200px;
+}
